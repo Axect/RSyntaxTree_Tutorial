@@ -1,0 +1,12 @@
+[S
+  [NP |R|<>SyntaxTree]
+  [VP
+    [V generates]
+    [NP
+      [Adj #\+multilingual\
+            \+beautiful]
+      [NP syntax\
+          trees]
+    ]
+  ]
+]
